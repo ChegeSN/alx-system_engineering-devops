@@ -4,3 +4,4 @@
 3-new_owner change file own
 4-empty creates new file hello
 5-execute give execute permission to file owner
+6-multiple_permissions gives execute permission to owner and group and read permission to others
