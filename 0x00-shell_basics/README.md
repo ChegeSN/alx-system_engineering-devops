@@ -7,3 +7,4 @@
 6-firstdirectory createsd a directory my_first_directory in tmp folder
 7-movethatfile moves betty from tmp to my_first_directory
 8-firstdelete deletes betty
+9-back changes to the previous directory
