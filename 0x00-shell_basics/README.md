@@ -12,3 +12,4 @@
 11-lists all files in current, parent and boot directories
 12-file_type shows the type of file
 13-symbolic_link creates a symbolic link for the named file 
+14-copy_html copies all html files that are new and not in the parent directory
