@@ -8,5 +8,6 @@
 7-movethatfile moves betty from tmp to my_first_directory
 8-firstdelete deletes bett
 9-firstdirdeletion deletes directory in tmp
-10-back change working directory to previous directory
-11-lists lists all files in current, parent and boot directory
+10-back changes working directory to previous
+11-lists lists all files in current, parent and boot directories
+12-file_type shows the type of file named 
