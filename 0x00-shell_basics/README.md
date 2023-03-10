@@ -6,5 +6,7 @@
 5-listfilesdigitonly lists files plus user and group ID contents
 6-firstdirectory createsd a directory my_first_directory in tmp folder
 7-movethatfile moves betty from tmp to my_first_directory
-8-firstdelete deletes betty
-9-back changes to the previous directory
+8-firstdelete deletes bett
+9-firstdirdeletion deletes directory in tmp
+10-back change working directory to previous directory
+11-lists lists all files in current, parent and boot directory
