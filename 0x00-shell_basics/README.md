@@ -5,3 +5,4 @@
 4-listmorefies displays a list of files including hidden ones
 5-listfilesdigitonly lists files plus user and group ID contents
 6-firstdirectory createsd a directory my_first_directory in tmp folder
+7-movethatfile moves betty from tmp to my_first_directory
