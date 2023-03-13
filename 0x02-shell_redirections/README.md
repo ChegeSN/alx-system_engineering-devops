@@ -6,3 +6,4 @@
 5-firstlines displays first 10 lines of /etc/passwd
 6-third_line displays the third line
 7-files adds text to a file named using special character
+8-cwd_state write output in a file
