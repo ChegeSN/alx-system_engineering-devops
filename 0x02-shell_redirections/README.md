@@ -4,3 +4,4 @@
 3-twofiles displays content of two files
 4-lastlines displays last 10 lines of /etc/passwd
 5-firstlines displays first 10 lines of /etc/passwd
+6-third_line
