@@ -9,3 +9,4 @@
 8-cwd_state write output in a file
 9-duplicate_last_line duplicates last line of file
 10-no_more_js deleteds all js files and subfolders
+11-directories counts the number of directories
