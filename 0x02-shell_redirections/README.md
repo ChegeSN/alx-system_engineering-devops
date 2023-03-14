@@ -12,3 +12,4 @@
 11-directories counts the number of directories
 12-newest_files displays 10 newest files
 13-unique display uniques words in file
+14-findthatword find lines with the word root
