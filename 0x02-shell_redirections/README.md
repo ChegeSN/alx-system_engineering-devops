@@ -16,3 +16,4 @@
 15-countthatword count word bin in file
 16-whatsnext displays lines with word root and three lines after
 17-hidethisword display lines with no word bin
+18-letteronly displays lines of file that begins with a letter
