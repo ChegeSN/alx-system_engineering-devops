@@ -17,3 +17,5 @@
 16-whatsnext displays lines with word root and three lines after
 17-hidethisword display lines with no word bin
 18-letteronly displays lines of file that begins with a letter
+19-AZ
+20-hiago removes letters c and C from file
