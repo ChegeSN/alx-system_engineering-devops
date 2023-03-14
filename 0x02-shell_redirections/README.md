@@ -19,3 +19,4 @@
 18-letteronly displays lines of file that begins with a letter
 19-AZ
 20-hiago removes letters c and C from file
+21-reverse reverses file input
