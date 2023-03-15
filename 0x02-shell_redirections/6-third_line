@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 | tail +3 iacta/0x02-shell_redirections
+head -n 3 iacta/0x02-shell_redirections | tail -1
